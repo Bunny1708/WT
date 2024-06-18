@@ -1,2 +1,2 @@
-# WT
+
 webtechnologies management
